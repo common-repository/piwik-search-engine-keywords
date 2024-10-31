@@ -1,0 +1,8 @@
+.psek_widget_out {}
+.psek_widget_out ul { list-style-type: none; padding: 0; }
+.psek_widget_out ul li { display: inline; padding-right: 5px; }
+.psek_post_out { border: 1px solid #000; color: #000; margin-top:10px; margin-bottom: 10px; padding: 10px; }
+.psek_post_out p { font-weight: bold; }
+.psek_post_out ul { margin: 0px; color: #8F8F8F; list-style-type: none; padding: 0; }
+.psek_post_out ul li { display: inline; margin: 5px; }
+.psek_separator { display: inline; padding-right: 5px; padding-left: 5px; }
